@@ -6,7 +6,7 @@ Encuentra recetas saludables personalizadas según tu despensa y preferencias di
 
 Healthy Recipe Finder te permite encontrar recetas saludables adaptadas a los ingredientes que tienes y a tus restricciones dietéticas, integrando inteligencia artificial para sugerencias personalizadas.
 
-## Cómo usar
+## Cómo usarlo
 
 1. **Instala dependencias**
    ```bash
